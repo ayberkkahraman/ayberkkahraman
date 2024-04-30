@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ I’m an Indie Game Developer<br>🖥️ Studied Computer Engineering at the University of COMU<br>🖥️ Sharing my devlog videos on YouTube channel<br>🖥️ Contributing to developer community on Hashnode
+🖥️ I’m an Indie Game Developer<br>🖥️ Studied Computer Science at the University of COMU<br>🖥️ Sharing my devlog videos on YouTube channel<br>🖥️ Contributing to developer community on Hashnode
 
 
 ## 🌐 Socials:
